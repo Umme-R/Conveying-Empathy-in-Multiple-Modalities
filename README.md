@@ -1,3 +1,3 @@
-# Extracting-Acoustic-Prosodic-Features-from-Praat
+# Conveying Empathy in Multiple Modalities
 
-A python script used to extract acoustic prosodic featurs from audio files in Praat software. This was created for research on the Empathy project at the Columbia Speech Processing Lab.
+Research done at the Columbia Speech Processing Lab. A poster showing the accumulation of research done as well as a python script used to extract acoustic prosodic featurs from audio files in Praat software.
